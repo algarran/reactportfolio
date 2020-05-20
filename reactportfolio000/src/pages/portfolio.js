@@ -5,11 +5,11 @@ function portfoliopage() {
 
 
 
-
+<div>
         <div class="whitebox">
             <h2>Portfolio</h2>
-            <h6>Please click a photo to go to the deployed app site<br></br>
-                Or click the app name to access the Github repository</h6>
+            <h6>Please click a photo to go to the deployed application site<br></br>
+                Or click the application name to access the Github repository</h6>
             <hr></hr>
 
             <div class="row">
@@ -74,6 +74,32 @@ function portfoliopage() {
                     </div>
                 </div>
 
+                <div class="col-xs-12 col-sm-6 col-md-4 col-lg-4 col-xl-4">
+                    <div>
+                        <a href=" https://desolate-headland-72832.herokuapp.com/" target="_blank">
+                            <img id="project2" src="pictures/project2.png" alt="project2"></img>
+                        </a>
+                        <div class="textbox">
+                            <a href="https://github.com/algarran/password" target="_blank">
+                                <h3>Project 2</h3>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-xs-12 col-sm-6 col-md-4 col-lg-4 col-xl-4">
+                    <div>
+                        <a href=" https://budgettracker000.herokuapp.com/" target="_blank">
+                            <img id="budget" src="pictures/budget.png" alt="budget"></img>
+                        </a>
+                        <div class="textbox">
+                            <a href="https://github.com/algarran/budgettracker" target="_blank">
+                                <h3>Budget Tracker</h3>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+
             </div>
 
         </div>
@@ -87,13 +113,13 @@ function portfoliopage() {
 
             <div class=" contact col-xs-12 col-sm-12 col-md-6 col-lg-6 col-xl-6 text-center">
                 Email by clicking here:
-            <a href="mailto: algarran24@gmail.com">
+                <a href="mailto: algarran24@gmail.com">
                     algarran24@gmail.com
-            </a>
+                </a>
             </div>
             <div class="contact col-xs-12 col-sm-12 col-md-6 col-lg-6 col-xl-6 text-center">
                 Phone Number: 913-704-5292
-        </div>
+            </div>
 
             <div id="linkedin" class="col-xs-12 col-sm-12 col-md-4 col-lg-4 col-xl-4 text-center">
 
@@ -115,7 +141,9 @@ function portfoliopage() {
             </div>
 
         </div>
+        </div>
         
     )
 }
+
 export default portfoliopage;

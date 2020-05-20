@@ -1,5 +1,6 @@
 import React from "react";
 
+
 function Navbar() {
   return (
     <div class="row">
@@ -15,13 +16,13 @@ function Navbar() {
                         class="links navbarText text-center offset-md-3 offset-lg-4 offset-xl-4 col-xs-12  col-sm-12 col-md-3 col-lg-4 col-xl-4">
                         <ul class="navbar-nav text-center ml-auto mr-auto d-inline">
                             <li class="nav-item d-inline">
-                                <a class="nav-link" href="index.html">Home</a>
+                                <a class="nav-link" href="/">Home</a>
                             </li>
                             <li class="nav-item d-inline">
-                                <a class="nav-link">|</a>
+                                <a class="nav-link">| | |</a>
                             </li>
                             <li class="nav-item d-inline">
-                                <a class="nav-link" href="portfolio.html">Portfolio
+                                <a class="nav-link" href="./portfolio">Portfolio
                                     <span class="sr-only">(current)</span>
                                 </a>
                             </li>
