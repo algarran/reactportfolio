@@ -14,7 +14,7 @@ function indexpage() {
                 <hr></hr>
 
                 <div id="picturewrap">
-                    <img id="picture" src="pictures/me.JPG" alt="Nick" />
+                    <img id="picture" src="images/me.JPG" alt="Nick" />
                 </div>
                 <p class="col-xs-12 col-sm-12">
                     Hi! First off I'd like to thank you for visiting my page. A little about myself, I was born in
