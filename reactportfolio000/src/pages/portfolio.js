@@ -18,7 +18,7 @@ function portfoliopage() {
                 <div class="col-xs-12 col-sm-6 col-md-4 col-lg-4 col-xl-4">
                     <div>
                         <a href="https://kcgooner.github.io/Project_1" target="_blank">
-                            <img id="project1" src="pictures/project1.png" alt="project1"></img>
+                            <img id="project1" src="images/project1.png" alt="project1"></img>
                         </a>
                         <div class="textbox">
                             <a href="https://github.com/KCGooner/Project_1" target="_blank">
@@ -32,7 +32,7 @@ function portfoliopage() {
                 <div class="col-xs-12 col-sm-6 col-md-4 col-lg-4 col-xl-4">
                     <div>
                         <a href="https://algarran.github.io/weather/" target="_blank">
-                            <img id="weather" src="pictures/weather.png" alt="weather"></img>
+                            <img id="weather" src="images/weather.png" alt="weather"></img>
                         </a>
                         <div class="textbox">
                             <a href="https://github.com/algarran/weather" target="_blank">
@@ -46,7 +46,7 @@ function portfoliopage() {
                 <div class="col-xs-12 col-sm-6 col-md-4 col-lg-4 col-xl-4">
                     <div>
                         <a href="https://algarran.github.io/planner/" target="_blank">
-                            <img id="planner" src="pictures/planner.png" alt="planner"></img>
+                            <img id="planner" src="images/planner.png" alt="planner"></img>
                         </a>
                         <div class="textbox">
                             <a href="https://github.com/algarran/planner" target="_blank">
@@ -64,7 +64,7 @@ function portfoliopage() {
                 <div class="col-xs-12 col-sm-6 col-md-4 col-lg-4 col-xl-4">
                     <div>
                         <a href="https://algarran.github.io/password/" target="_blank">
-                            <img id="password" src="pictures/password.png" alt="password"></img>
+                            <img id="password" src="images/password.png" alt="password"></img>
                         </a>
                         <div class="textbox">
                             <a href="https://github.com/algarran/password" target="_blank">
@@ -77,10 +77,10 @@ function portfoliopage() {
                 <div class="col-xs-12 col-sm-6 col-md-4 col-lg-4 col-xl-4">
                     <div>
                         <a href=" https://desolate-headland-72832.herokuapp.com/" target="_blank">
-                            <img id="project2" src="pictures/project2.png" alt="project2"></img>
+                            <img id="project2" src="images/project2.png" alt="project2"></img>
                         </a>
                         <div class="textbox">
-                            <a href="https://github.com/algarran/password" target="_blank">
+                            <a href="https://github.com/algarran/project2" target="_blank">
                                 <h3>Project 2</h3>
                             </a>
                         </div>
@@ -90,7 +90,7 @@ function portfoliopage() {
                 <div class="col-xs-12 col-sm-6 col-md-4 col-lg-4 col-xl-4">
                     <div>
                         <a href=" https://budgettracker000.herokuapp.com/" target="_blank">
-                            <img id="budget" src="pictures/budget.png" alt="budget"></img>
+                            <img id="budget" src="images/budget.png" alt="budget"></img>
                         </a>
                         <div class="textbox">
                             <a href="https://github.com/algarran/budgettracker" target="_blank">
